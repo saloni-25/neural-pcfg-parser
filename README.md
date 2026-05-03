@@ -17,6 +17,8 @@ This project implements a neural probabilistic context-free grammar (PCFG) parse
 - PyTorch
 - NLP (PCFG)
 
+## 🌐 Live Demo
+[Click here to view the project](https://minor-project-pearl-beta.vercel.app)
 
 # TN-PCFG and NBL-PCFG
 
