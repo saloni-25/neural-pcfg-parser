@@ -1,3 +1,23 @@
+# Neural PCFG Parser
+
+This project implements a neural probabilistic context-free grammar (PCFG) parser using tensor decomposition techniques.
+
+## Features
+- Grammar induction
+- Parsing sentences
+- Model evaluation
+
+## My Contributions
+- Implemented training and evaluation pipeline
+- Modified parsing logic
+- Improved performance
+
+## Tech Stack
+- Python
+- PyTorch
+- NLP (PCFG)
+
+
 # TN-PCFG and NBL-PCFG
 
 source code of  
